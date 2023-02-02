@@ -1,0 +1,85 @@
+body header{
+background: rgb(0, 0, 0);
+color: azure;
+padding-top: 1cm;
+text-align: center;
+font-size: x-large;
+font-family: cursive;
+-webkit-font-feature-settings: normal;
+border-radius: 1cm;
+}
+body{
+border-width: 1cm;
+border-style: ridge;
+border-color: blue;
+border-radius: 6ch;
+background-image: url(../foto\ evelyn.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+he
+}
+body div input{
+  border-style: solid;
+  padding: 12px;
+  border-color: rgb(0, 0, 0);  
+-moz-animation-duration: 10s;
+border-bottom-width: 11px;
+border-radius: 4ch;
+}
+body nav ul a{
+border-style: solid;
+border-color: rgba(0, 0, 0, 0.603);
+padding: 1ch;
+text-align: center;
+text-decoration: none;
+color: rgb(255, 255, 255);
+background: rgb(0, 0, 0);
+}
+body div a{
+text-decoration: none;
+border-style: solid;
+background: rgb(0, 26, 255);
+color: rgb(255, 255, 255);
+border-color: black;
+padding: 7px;
+padding-right: 88px;
+}
+body div ul li{
+color: rgb(0, 0, 0);
+border-style: double;
+border-color: rgb(236, 12, 12);
+border-radius: 6ch;
+padding: 2ch;
+text-align: center;
+font-style: italic;
+font-size: medium;
+font-family: cursive;
+font-variant-position: super;
+border-image: space;
+background-image: url(../images.jpg);
+background-repeat: repeat repeat-x;
+color: rgb(255, 255, 255);
+font-weight: 98;
+font-size-adjust: inherit;
+background: 
+}
+body div section h1{
+border-style: double;
+text-align: center;
+text-decoration: overline;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font: bolder;
+color-interpolation-filters: linearRGB calc();
+border-inline-start-style: double;
+justify-self: center;
+background: rgb(0, 17, 255);
+padding: 1ch;
+background-
+}
+body div section{
+border-style: groove;
+border-top-left-radius: 33cm;
+border-top-right-radius: 33cm;
+border-color: black;
+}
